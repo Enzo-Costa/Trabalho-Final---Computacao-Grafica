@@ -1,0 +1,8 @@
+newmtl material_dragao_roxo
+# Ka: Cor ambiente
+Ka 0.4 0.0 0.8 
+# Kd: Cor difusa
+Kd 0.6 0.0 1.0 
+# Ks: Cor especular (brilho)
+Ks 0.2 0.2 0.2
+Ns 100.0

@@ -1,0 +1,9 @@
+newmtl material_coelho_branco
+# Cor Ambiente 
+ Ka 0.8 0.6 0.4
+# Kd: Cor principal
+ Kd 1.0 0.7 0.5 
+# Cor Especular
+ Ks 0.01 0.01 0.01
+# Ns (Brilho)
+ Ns 10.0

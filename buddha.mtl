@@ -1,0 +1,9 @@
+newmtl material_buda_dourado
+# Ka: Cor ambiente
+Ka 0.3 0.2 0.05 
+# Kd: Cor difusa
+Kd 0.8 0.6 0.2 
+# Ks: Cor do Brilho
+Ks 1.0 0.9 0.5
+# Ns (Shininess/Brilho)
+Ns 125.0
